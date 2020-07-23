@@ -6,20 +6,20 @@ Front End Developer
 
 ## technologies
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/olafsulich/)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/olafsulich/)
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+[![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-pink?style=flat-square&logo=Styled-Components)](https://styled-components.com/)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/olafsulich/)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/olafsulich/)
+[JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+[![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)](https://en.reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white)](https://https://redux.js.org/)
 
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/olafsulich/)
+[![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/olafsulich/)
-
+[Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+[![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/)
+[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://figma.com/)
 
 ## my last projects
 
