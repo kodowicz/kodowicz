@@ -19,7 +19,7 @@ Front End Developer
 
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git)](https://github.com/kodowicz/kodowicz)
 [![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/)
-[![Figma](https://img.shields.io/badge/-Figma-#8c8c8c?style=flat-square&logo=Figma)](https://figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-8c8c8c?style=flat-square&logo=Figma)](https://figma.com/)
 
 ## my last projects
 
