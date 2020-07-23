@@ -6,18 +6,18 @@ Front End Developer
 
 ## technologies
 
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/kodowicz/kodowicz)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/kodowicz/kodowicz)
 [![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-pink?style=flat-square&logo=Styled-Components)](https://styled-components.com/)
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/kodowicz/kodowicz)
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)](https://en.reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white)](https://https://redux.js.org/)
 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
-[Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/kodowicz/kodowicz)
 [![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://figma.com/)
 
