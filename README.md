@@ -6,20 +6,20 @@ Front End Developer
 
 ## technologies
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/kodowicz/kodowicz)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/kodowicz/kodowicz)
-[![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-795548?style=flat-square&logo=Styled-Components&logoColor=white)](https://styled-components.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/kodowicz/kodowicz)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/kodowicz/kodowicz)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&)](https://sass-lang.com/)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://styled-components.com/)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-ffca28?style=flat-square&logo=javascript&logoColor=white)](https://github.com/kodowicz/kodowicz)
-[![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)](https://en.reactjs.org/)
-[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white)](https://https://redux.js.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/kodowicz/kodowicz)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://en.reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=764abc)](https://https://redux.js.org/)
 
-[![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)](https://firebase.google.com/)
 
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://github.com/kodowicz/kodowicz)
-[![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/)
-[![Figma](https://img.shields.io/badge/-Figma-8c8c8c?style=flat-square&logo=Figma&logoColor=white)](https://figma.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/kodowicz/kodowicz)
+[![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=gulp)](https://gulpjs.com/)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)](https://figma.com/)
 
 ## my last projects
 
