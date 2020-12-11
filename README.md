@@ -1,36 +1,45 @@
-### Hi there 👋, I'm Anna
-Front End Developer
+<div align="center">
+  <h1> Hi there 👋, I'm Anna</h1>
+  <p>Front End Developer</p>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kotowicz-53692319b/)](https://www.linkedin.com/in/anna-kotowicz-53692319b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna.julia.kotowicz@gmail.com)](mailto:anna.julia.kotowicz@gmail.com)
 
-## technologies
+<br />
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/kodowicz/kodowicz)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/kodowicz/kodowicz)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&)](https://sass-lang.com/)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://styled-components.com/)
+## get to know me
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/kodowicz/kodowicz)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://en.reactjs.org/)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=764abc)](https://https://redux.js.org/)
+I'm a Front-end Developer based in Wrocław. I ve been learning web technologies since September 2017. I have over 2 years experience with React. Aim of my work is to create modern, creative and user-friendly applications that are coded with state-of-the-art frameworks, language features, and tools. I'm keen on using vanilla JS. Also my favorite part of building applications is coding in React and Redux. I love learning new things. It is important for me to know how things work, not just how to use them.
+ 
+<br />
 
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)](https://firebase.google.com/)
+## my stack
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/kodowicz/kodowicz)
-[![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=gulp)](https://gulpjs.com/)
-[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)](https://figma.com/)
+- __HTML__: very good knowledge
+- __CSS__: very good knowledge (Flexbox, Grid, RWD, SVG, BEM)
+- __SASS__: good knowledge
+- __JavaScript__: very good knowledge (ES6, asynchronous)
+- __React.js__: good knowledge (hooks, Styled Components, React Router)
+- __Redux__: basic knowledge (asynchronous with Redux-Thunk)
+- __Gulp__: good practical knowledge
+- __Webpack__: basic practical knowledge
+- tools: __Figma__
+- __npm__, __GIT__: basic practical knowledge
+- database: __Firebase__
 
-## my last projects
+ <br />
+
+## projects I'm proud of
 
 #### [Learn Spanish](https://learn-spanish.web.app/) | [code](https://github.com/kodowicz/learn-spanish) 
-> CRUD app build with React, Redux and Firebase
+> CRUD app built with React, Redux, React Router and Firebase
+
+#### [English Sentences](https://english-sentences.web.app/) | [code](https://github.com/kodowicz/sentences) 
+> plain PWA app built with React, Redux and Firebase
 
 #### [Mastermind](https://kodowicz.github.io/mastermind/) | [code](https://github.com/kodowicz/mastermind) 
 > Javascript game using Drag&Drop API
 
-#### [Search City App](https://kodowicz.github.io/search-app/) | [code](https://github.com/kodowicz/search-app) 
-> first React App
-
 #### [Plant Shop](https://kodowicz.github.io/plant-shop/) | [code](https://github.com/kodowicz/plant-shop) 
-> designed website
+> designed website from scratch
