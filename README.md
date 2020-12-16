@@ -20,8 +20,8 @@ I'm a Front-end Developer based in Wrocław. I ve been learning web technologies
 - __CSS__: very good knowledge (Flexbox, Grid, RWD, SVG, BEM)
 - __SASS__: good knowledge
 - __JavaScript__: very good knowledge (ES6, asynchronous)
-- __React.js__: good knowledge (hooks, Styled Components, React Router)
-- __Redux__: basic knowledge (asynchronous with Redux-Thunk)
+- __React.js__: good knowledge (hooks, __Styled Components__, __React Router__)
+- __Redux__: good knowledge (asynchronous with __Redux-Thunk__)
 - __Gulp__: good practical knowledge
 - __Webpack__: basic practical knowledge
 - tools: __Figma__
