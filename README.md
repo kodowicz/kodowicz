@@ -10,7 +10,7 @@
 
 ## get to know me
 
-I'm a Front-end Developer based in Wrocław. I ve been learning web technologies since September 2017. I have over 2 years experience with React. Aim of my work is to create modern, creative and user-friendly applications that are coded with state-of-the-art frameworks, language features, and tools. I'm keen on using vanilla JS. Also my favorite part of building applications is coding in React and Redux. I love learning new things. It is important for me to know how things work, not just how to use them.
+I'm a Front-end Developer based in Wrocław. I've been learning web technologies since September 2017. I have over 2 years of experience with React. The aim of my work is to create modern, creative, and user-friendly applications that are coded with state-of-the-art frameworks, language features, and tools. I'm keen on using vanilla JS. Also, my favorite part of building applications is coding in React and Redux. I love learning new things. It is important for me to know how things work, not just how to use them.
  
 <br />
 
