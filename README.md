@@ -10,7 +10,7 @@
 
 ## get to know me
 
-Highly motivated and open-minded Front-End Developer with over 3 years of experience building applications. The aim of my work is to create modern, creative, and user-friendly applications coded with state-of-the-art frameworks, language features, and tools. Also passionate about design, usability, and accessibility.
+Highly motivated and open-minded Web-dev practitioner since 2017. The aim of my work is to create modern, creative, and user-friendly applications coded with state-of-the-art frameworks, language features, and tools. Also passionate about design, usability, and accessibility.
  
 <br />
 
