@@ -34,7 +34,7 @@ Highly motivated and open-minded Web-dev practitioner since 2017. The aim of my 
 #### [Learn Spanish](https://learn-spanish.web.app/) | [code](https://github.com/kodowicz/learn-spanish) 
 > PWA, CRUD app built with React, Redux, React Router, and Firebase
 
-#### [English Sentences](https://english-sentences.web.app/) | [code](https://github.com/kodowicz/sentences) 
+#### [English Sentences](https://english-grammar.web.app/) | [code](https://github.com/kodowicz/english-grammar) 
 > PWA app built with React, Redux, React Router, and Firebase
 
 #### [Mastermind Game](https://kodowicz.github.io/mastermind/) | [code](https://github.com/kodowicz/mastermind) 
