@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there, I'm Anna 👋</h1>
-  <p>Junior Ruby Developer</p>
+  <p>Ruby Developer</p>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kotowicz-53692319b/)](https://www.linkedin.com/in/anna-kotowicz-53692319b/)
