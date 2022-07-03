@@ -9,8 +9,7 @@
 <br />
 
 ## get to know me
-Two hobbies in one line: `rake db:seed:replant`
-<br />
+
 
 Highly motivated and open-minded Web-dev practitioner since 2017. Started the programming adventure with JavaScript and related web technologies. Now exploring Ruby and Ruby on Rails. The aim of my work is to create modern, creative, and user-friendly applications coded with state-of-the-art frameworks, language features, and tools. Also passionate about design, usability, and accessibility.
  
@@ -18,27 +17,24 @@ Highly motivated and open-minded Web-dev practitioner since 2017. Started the pr
 
 ## my stack
 
-### front-end
-
-- __HTML__
-- __CSS__
-- __SASS__
-- __JavaScript__
-- __Vue.js__ (Vue 3, Composition API)
-- __React.js__ (hooks, __Styled Components__, __React Router__)
-- __Redux__ (asynchronous with __Redux-Thunk__)
-- __GraphQL__ (with __Apollo__)
-- __Figma__
-- __Firebase__
-
-
 ### back-end
 
 - __Ruby__
 - __Ruby on Rails__
 - __SQL__
 - __PostgreSQL__
-- __GraphQL__
+
+### front-end
+
+- __HTML__
+- __CSS__
+- __SASS__
+- __JavaScript__
+- __React.js__ (hooks, __Styled Components__, __React Router__)
+- __Redux__ (asynchronous with __Redux-Thunk__)
+- __GraphQL__ (with __Apollo__)
+- __Figma__
+- __Firebase__
 
 <br />
 
