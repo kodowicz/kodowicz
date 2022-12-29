@@ -30,11 +30,7 @@ Highly motivated and open-minded Web-dev practitioner since 2017. Started the pr
 - __CSS__
 - __SASS__
 - __JavaScript__
-- __React.js__ (hooks, __Styled Components__, __React Router__)
-- __Redux__ (asynchronous with __Redux-Thunk__)
-- __GraphQL__ (with __Apollo__)
-- __Figma__
-- __Firebase__
+- __React.js__
 
 <br />
 
